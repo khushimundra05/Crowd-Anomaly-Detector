@@ -1,0 +1,4 @@
+video,label
+data/test_clips/fall_01.mp4,fall_dataset
+data/test_clips/normal_01.mp4,normal
+data/test_clips/violence_01.mp4,violence
