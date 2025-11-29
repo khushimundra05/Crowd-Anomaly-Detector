@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crowd Anomaly Detection
 
 **Description**  
@@ -28,3 +29,6 @@ This project detects abnormal events in crowds from video streams in real-time, 
 ```bash
 git clone https://github.com/tanvichhaparia/crowd-anomaly-detection.git
 cd crowd-anomaly-detection
+=======
+# Crowd-Anomaly-Detector
+>>>>>>> b3c53bec9ad784637403dbaf5ea3fe4fc61b7d6d
